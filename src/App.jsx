@@ -1,6 +1,6 @@
 import NavBar from './assets/NavBar';
 import Product from './assets/Product';
-import Home from './assets/Home';
+import Home from './assets/Home1';
 import Shop from './assets/Shop';
 import About from './assets/About';
 import Footer from './assets/Footer';

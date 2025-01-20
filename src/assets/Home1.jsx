@@ -4,7 +4,7 @@ import { gsap } from "gsap";
 import vid from './header.mp4'
 import { useNavigate } from 'react-router-dom'
 
-const Home = () => {
+const Home1 = () => {
   const navigate = useNavigate();
 
   return (
@@ -79,4 +79,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Home1
