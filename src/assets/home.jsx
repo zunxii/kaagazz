@@ -1,7 +1,6 @@
 import React from 'react'
 import main_photo from "./image.webp";
 import { gsap } from "gsap";
-import kaagazz_elements from './kaagazz_elements-09.png'
 import vid from './header.mp4'
 import { useNavigate } from 'react-router-dom'
 
