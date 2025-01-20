@@ -9,7 +9,7 @@ const footer = () => {
         <img className="w-20" src={logo} alt="Kaagazz Logo" />
       </div>
       <div>
-        <img className='w-10' src={lotus} alt="none"/>
+        <img className='w-12' src={lotus} alt="none"/>
       </div>
       <div className="flex flex-col gap-2">
         <span className="text-[#355F9B] cursor-pointer font-bold">Privacy Policy</span>
