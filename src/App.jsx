@@ -3,7 +3,7 @@ import Product from './assets/Product';
 import Home from './assets/Home1';
 import Shop from './assets/Shop';
 import About from './assets/About';
-import Footer from './assets/Footer';
+import Footer from './assets/Footer1';
 import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 
 const App = () => {
